@@ -1,0 +1,6 @@
+site_name: Known Psychology Docs
+site_url: https://known-psychology-docs.readthedocs.io/
+repo_url: https://github.com/rajaumairhamza/known-psychology-docs
+theme: readthedocs
+nav:
+  - Home: index.md
